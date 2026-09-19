@@ -21,7 +21,6 @@ while resp != 0:
 [2]Tesoura
 [3]Pedra\n"""))
   jogador2 = random.randint(1,3)
-
   match jogador1:
     case 1: 
      if jogador1 == 1 and jogador2 == 3:
