@@ -2,8 +2,6 @@ import random
 
 pontoUsuario = 0
 pontoMaquina = 0
-pessoa = 0
-computador = 0
 
 print("JOKENPO - O JOGO")
 print("----------------")
